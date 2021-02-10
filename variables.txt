@@ -1,0 +1,14 @@
+food = "Burger"
+is_delicious = true
+
+food = "Salad"
+num2 = 120
+num7 = 2
+
+quotient = num7 / num2
+
+songs = ["Billie Jean", "Life on Mars", "Beat it"]
+
+songs.delete_at(0)
+
+puts food.length # Print number of chars
