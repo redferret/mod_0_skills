@@ -1,0 +1,15 @@
+Table
+
+Attributes
+
+customers (Integer)
+check_balance (Float)
+assigned_waiter (String)
+meals_ordered (Array)
+
+Methods
+
+add_customer (Increments the number of customers by 1)
+order_meal (Increments check_balance by the given amount)
+assign_waiter (Sets assigned_waiter to the name given)
+add_meal (Adds a meal to the meals_ordered Array)
