@@ -1,0 +1,15 @@
+Kitchen
+
+Attributes
+
+tickets (Array)
+food_stock (Array)
+chef (String)
+is_kitchen_clean (Boolean)
+
+Methods
+
+add_ticket (Adds new ticket to tickets Array)
+stock_food_item (Adds new item to food_stock Array)
+assign_chef (Sets the chef String to the given chef's name)
+clean_kitchen (Sets is_kitchen_clean to true)
