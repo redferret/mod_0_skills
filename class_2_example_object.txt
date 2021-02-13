@@ -2,14 +2,14 @@ ramseys_kitchen
 
 Attributes
 
-tickets = [ticket_1]
+tickets = ["Ticket 1"]
 food_stock = ["Eggs", "Fish", "Beef"]
 chef = "Bob Ross"
 is_kitchen_clean = false
 
 Methods
 
-add_ticket (tickets = [ticket_1, ticket_2])
+add_ticket (tickets = ["Ticket 1", "Ticket 2"])
 stock_food_item (food_stock = ["Eggs", "Fish", "Beef", "Pork"])
 assign_chef (chef = "Gordon Ramsay")
 clean_kitchen (is_kitchen_clean = true)
